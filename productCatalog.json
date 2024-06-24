@@ -1,0 +1,99 @@
+{
+    "Products": [
+        {
+            "id": 1,
+            "category" :"men",
+            "pname": "Men",
+            "price": "500-10000",
+            "pid": 0
+        },
+        {
+            "id": 2,
+            "category":"women",
+            "pname": "Women",
+            "pimg": "img/feature-2.png",
+            "price": "500-10000",
+            "pid": 0
+        },
+        {
+            "id": 3,
+            "category":"kid",
+            "pname": "Kid",
+            "pimg": "img/sujal.png",
+            "price": "500-10000",
+            "pid": 0
+        },
+        {
+            "id": 4,
+            "category":"men",
+            "pname": "Men's Watch-1",
+            "pimg": "img/w1.png",
+            "price": "$ 200",
+            "pid": 1
+        },
+        {
+            "id": 5,
+            "pname": "Men's Watch-2",
+            "category":"men",
+            "pimg": "img/w2.png",
+            "price": "$ 350",
+            "pid": 1
+        },
+        {
+            "id": 6,
+            "pname": "Men's Watch-3",
+            "category":"men",
+            "pimg": "img/w3.png",
+            "price": "$ 300",
+            "pid": 1
+        },
+        {
+            "id": 7,
+            "category":"women",
+            "pname": "Women's Watch-1",
+            "pimg": "img/w7.png",
+            "price": "$ 400",
+            "pid": 2
+        },
+        {
+            "id": 8,
+            "category":"women",
+            "pname": "Women's Watch-2",
+            "pimg": "img/w8.png",
+            "price": "$ 300",
+            "pid": 2
+        },
+        {
+            "id": 9,
+            "pname": "Women's Watch-3",
+            "category":"women",
+            "pimg": "img/w9.png",
+            "price": "$ 300",
+            "pid": 2
+        },
+        {
+            "id": 10,
+            "category":"kid",
+            "pname": "kid's Watch-1",
+            "pimg": "img/w4.png",
+            "price": "$ 300",
+            "pid": 3
+        },
+        {
+            "id": 11,
+            "category":"kid",
+            "pname": "kid's Watch-2",
+            "pimg": "img/w5.png",
+            "price": "$ 300",
+            "pid": 3
+        },
+        {
+            "id": 12,
+            "category":"kid",
+            "pname": "kid's Watch-3",
+            "pimg": "img/w6.png",
+            "price": "$ 300",
+            "pid": 3
+        }
+    ]
+}
