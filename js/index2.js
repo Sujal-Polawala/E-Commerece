@@ -158,12 +158,6 @@ $("#catalog").on("change", function () {
 $(document).ready(function () {
   displayProducts("default"); // Display all products initially
 });
-
-// Call the function to display products when the page loads
-$(document).ready(function () {
-  displayProducts("default");
-  // Display all products initially
-});
 $(document).ready(function () {
   $("#btn").click(function () {
     let email = $("#logemail").val();
