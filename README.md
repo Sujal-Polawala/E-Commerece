@@ -1,16 +1,42 @@
-# E-Commerece
+# 🛒 E-Commerce Website
 
-[Live Demo](https://sujal-polawala.github.io/E-Commerece/)
+A simple front-end e-commerce project that showcases products, allows users to add items to the cart, and provides a smooth shopping experience — all built with HTML, CSS, and vanilla JavaScript.
 
-This is an E-Commerece Website Project.It has Product like Watches And It's Description.Also It is Responsive E-Commerece Website.
-# Includes 
+---
 
-This Project includes Html File Like ProductList,ProductDetails,About,Contact, Css, Java-Script, JSON File, JQuery, Images.
-# Author 
-* [Github](https://github.com/Sujal-Polawala)
-* [Instagram](https://www.instagram.com/sujal_.polawala/)
-* [Linkedin](https://www.linkedin.com/in/sujal-polawala-b727ba241/)
+## 🚀 Getting Started
 
-## License
+1. Clone the repository:
 
-This Project is [MIT](https://choosealicense.com/licenses/mit/) licensed.
+```bash
+git clone https://github.com/Sujal-Polawala/E-Commerece.git
+```
+2. Open index.html in your browser to run the app.
+
+No installations or frameworks needed — just open and go!
+
+## ✨ Features
+- 🛍 Product Listings
+- 🛒 Add to Cart & Cart Preview
+- 📱 Responsive Design (mobile-friendly)
+- 🔎 Product Details Page (if implemented)
+- 📦 Clean and minimal UI
+
+## 📁 Folder Structure
+
+```
+/E-Commerece
+├── index.html
+├── style.css
+├── script.js
+└── assets/
+    └── images/
+```
+
+## 💻 Tech Stack
+- HTML5
+- CSS3
+- JavaScript (Vanilla)
+
+# 📜 License
+This project is licensed under the MIT License.
